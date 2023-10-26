@@ -1,0 +1,28 @@
+_repo: Remarks-on-the-management-or-rather-the-mis-management-of-woods-plantations-and-hedge-row-tim__71955
+_version: 0.0.1
+creator:
+  author:
+    agent_name: West, J.
+    gutenberg_agent_id: '56471'
+    url: http://www.gutenberg.org/2009/agents/56471
+description: ''
+gutenberg_issued: '2023-10-25'
+identifiers:
+  gutenberg: '71955'
+language: en
+pgterms:marc904: https://archive.org/details/remarksonmanagem00westrich
+pgterms:marc905: 20230120135408west
+pgterms:marc906: '1842'
+pgterms:marc907: GB
+production_note: Bob Taylor, Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNewark :$bLongman & Co., $c1842.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Remarks on the management, or rather, the mis-management of woods, plantations
+  and hedge-row timber
+url: http://www.gutenberg.org/ebooks/71955
